@@ -9,7 +9,7 @@ class FullPost extends Component {
             post = (
                 <div>
                     <h1 className="titleArticle">{this.props.title} Collection</h1>
-                    <img alt={this.props.image} src={`/assets/${this.props.image}.png`} style={{width:'100%'}}/>
+                    <img alt={this.props.image} src={`./assets/${this.props.image}.png`} style={{width:'100%'}}/>
                     <p className="bodyArticle">{this.props.content}</p>
                 </div>
     
