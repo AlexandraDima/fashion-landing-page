@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64113da890b2abaf5c270d1b3f67fe03",
+    "revision": "c12c12b3ae18f2dad9d07db7b370b5ca",
     "url": "/fashion-landing-page/index.html"
   },
   {
-    "revision": "c9c52e3ecf6a680cada1",
-    "url": "/fashion-landing-page/static/css/main.68d2d4a6.chunk.css"
+    "revision": "5f98c56c637ffa7cfd25",
+    "url": "/fashion-landing-page/static/css/main.4d353e81.chunk.css"
   },
   {
     "revision": "38db58aff7704a6101d2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9c52e3ecf6a680cada1",
-    "url": "/fashion-landing-page/static/js/main.0012d035.chunk.js"
+    "revision": "5f98c56c637ffa7cfd25",
+    "url": "/fashion-landing-page/static/js/main.f9ffba09.chunk.js"
   },
   {
     "revision": "b36d1b6afec5f8032c75",
