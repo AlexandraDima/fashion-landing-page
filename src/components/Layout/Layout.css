@@ -10,7 +10,7 @@
     overflow-x: hidden;
     position: relative;
   }
-  main {
+ /*  main {
     position: absolute;
   }
   @media screen and (max-width: 1024px) {
@@ -19,4 +19,4 @@
       margin: 0;
     }
 
-  }  
+  }   */

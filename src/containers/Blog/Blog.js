@@ -100,7 +100,7 @@ class Blog extends Component{
         this.state.articles.map((item) => (
             <section key={item.id} className="slide" ref={this.slideRef}>
             <div className="hero-img">
-                <img alt={item.image} src={`/assets/${item.image}.png`} ref={this.imgRef}/>
+                <img alt={item.image} src={`./assets/${item.image}.png`} ref={this.imgRef}/>
                 <div className="reveal-img" ref={this.revealImgRef}></div>
             </div>
             <div className="hero-desc">
