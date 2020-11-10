@@ -1,7 +1,7 @@
 {
-  "name": "my-blog",
-  "version": "0.1.0",
   "homepage": "http://AlexandraDima.github.io/Fashion_LandingPage",
+  "name": "Fashion_LandingPage",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
