@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fashion-landing-page/static/css/main.4d353e81.chunk.css",
-    "main.js": "/fashion-landing-page/static/js/main.f9ffba09.chunk.js",
-    "main.js.map": "/fashion-landing-page/static/js/main.f9ffba09.chunk.js.map",
+    "main.js": "/fashion-landing-page/static/js/main.dc66061a.chunk.js",
+    "main.js.map": "/fashion-landing-page/static/js/main.dc66061a.chunk.js.map",
     "runtime-main.js": "/fashion-landing-page/static/js/runtime-main.3b5080de.js",
     "runtime-main.js.map": "/fashion-landing-page/static/js/runtime-main.3b5080de.js.map",
     "static/js/2.3bfbefdb.chunk.js": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js",
     "static/js/2.3bfbefdb.chunk.js.map": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js.map",
     "index.html": "/fashion-landing-page/index.html",
-    "precache-manifest.7542e829c7ed95d729c3b38a3f0096cb.js": "/fashion-landing-page/precache-manifest.7542e829c7ed95d729c3b38a3f0096cb.js",
+    "precache-manifest.95135d13b812f908e24572412c079a73.js": "/fashion-landing-page/precache-manifest.95135d13b812f908e24572412c079a73.js",
     "service-worker.js": "/fashion-landing-page/service-worker.js",
     "static/css/main.4d353e81.chunk.css.map": "/fashion-landing-page/static/css/main.4d353e81.chunk.css.map",
     "static/js/2.3bfbefdb.chunk.js.LICENSE.txt": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3b5080de.js",
     "static/js/2.3bfbefdb.chunk.js",
     "static/css/main.4d353e81.chunk.css",
-    "static/js/main.f9ffba09.chunk.js"
+    "static/js/main.dc66061a.chunk.js"
   ]
 }
