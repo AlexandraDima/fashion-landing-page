@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: white;
+    font-family: "Montserrat", sans-serif;
+    overflow-x: hidden;
+    position: relative;
+  }
+  main {
+    position: absolute;
+  }
+  @media screen and (max-width: 1024px) {
+    main {
+      width: 100%;
+      margin: 0;
+    }
+
+  }  

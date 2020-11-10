@@ -1,0 +1,26 @@
+.cursor {
+    width: 3rem;
+    height: 3rem;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    transition: all 0.5s ease-in-out;
+    transform: translate(-50%, -50%);
+    transition-property:  background-color, opacity, transform;  
+    z-index: 9999;
+  }
+
+
+  .cursor--clicked {
+    transform:translate(-50%, -50%) scale(1.9);
+    background-color: black;
+    background-color:#58aeda;
+    }
+
+    .cursor--link-hovered {
+      transform:translate(-50%, -50%) scale(2.25);
+      opacity: 0.7;
+      background-color:#58aeda;
+    }
+

@@ -1,0 +1,117 @@
+
+.slide {
+    min-height: 90vh;
+    margin: 0 auto 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+  
+.hero-desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-basis: 25rem;
+    padding-left: 5rem;
+    position: relative;
+}
+.hero-img {
+    position: relative;
+    flex: 1;
+    flex-basis: 25rem;
+    overflow: hidden;
+}
+  
+.hero-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.fashion-span {
+    color: #58aeda;
+}
+
+.hero-desc h2 {
+    font-family: "Abril Fatface";
+    font-size: 5rem;
+  }
+  .hero-desc p {
+    padding: 3rem 0rem;
+    font-size: 1.5rem;
+    color: black;
+  }
+  .explore {
+    padding: 1rem 2rem;
+    background: none;
+    border: none;
+    color: black;
+    border: 1px solid black;
+    font-size: 1rem;
+    text-decoration: none;
+    align-self: flex-start;
+    cursor: pointer;
+  }
+  .title {
+    position: relative;
+    overflow: hidden;
+  }
+  .title-swipe {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    mix-blend-mode: darken;
+    transform: translateY(100%);
+  }
+  .t-swipe1 {
+    background:#58aeda;
+  }
+
+.reveal-img,
+.reveal-text {
+  position: absolute;
+  width: 100%;
+  height: 150%;    
+  left: 0;
+  top: -15%;
+  background-color: white;
+} 
+ 
+.active{
+  color:red;
+}
+
+  
+@media screen and (max-width: 1024px) {
+  
+  .slide {
+    display: block;
+    text-align: center;
+  }
+  .hero-desc {
+    padding: 0;
+  }
+  .hero-img {
+    padding-top: 4rem;
+  }
+  .hero-desc h2 {
+    font-size: 1.6rem;
+    padding: 1rem 0rem;
+  }
+  .hero-desc p {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    text-align: center;
+  }
+  .explore {
+    width: 60%;
+    margin: auto;
+  }
+  
+}
