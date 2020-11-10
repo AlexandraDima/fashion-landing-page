@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fashion-landing-page/static/css/main.68d2d4a6.chunk.css",
+    "main.js": "/fashion-landing-page/static/js/main.0012d035.chunk.js",
+    "main.js.map": "/fashion-landing-page/static/js/main.0012d035.chunk.js.map",
+    "runtime-main.js": "/fashion-landing-page/static/js/runtime-main.3b5080de.js",
+    "runtime-main.js.map": "/fashion-landing-page/static/js/runtime-main.3b5080de.js.map",
+    "static/js/2.3bfbefdb.chunk.js": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js",
+    "static/js/2.3bfbefdb.chunk.js.map": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js.map",
+    "index.html": "/fashion-landing-page/index.html",
+    "precache-manifest.ab6e8abf345b26a2d1b7da61c2d24ac5.js": "/fashion-landing-page/precache-manifest.ab6e8abf345b26a2d1b7da61c2d24ac5.js",
+    "service-worker.js": "/fashion-landing-page/service-worker.js",
+    "static/css/main.68d2d4a6.chunk.css.map": "/fashion-landing-page/static/css/main.68d2d4a6.chunk.css.map",
+    "static/js/2.3bfbefdb.chunk.js.LICENSE.txt": "/fashion-landing-page/static/js/2.3bfbefdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b5080de.js",
+    "static/js/2.3bfbefdb.chunk.js",
+    "static/css/main.68d2d4a6.chunk.css",
+    "static/js/main.0012d035.chunk.js"
+  ]
+}
